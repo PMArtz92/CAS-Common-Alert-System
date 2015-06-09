@@ -8,7 +8,7 @@ import views.html.*;
 public class Application extends Controller {
 
     public static Result index() {
-        return ok("Test");
+        return ok("Test, meka pasange wadak,\n Ow, Ape Kassa Pasange wadak :P");
     }
 
 }
