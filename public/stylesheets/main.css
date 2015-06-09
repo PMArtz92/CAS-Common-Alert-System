@@ -1,0 +1,95 @@
+.side-menu{
+    background-color: #131313;
+    height: 1000px;
+}
+
+.logo{
+    max-height: 130px;
+    width: 100%;
+}
+
+.profile{
+    max-height: 440px;
+    padding-bottom: 50px;
+    border-bottom: #333  solid medium;
+}
+
+.pro-pic{
+    max-width: 165px;
+    max-height: 165px;
+    border-radius:50%;
+}
+
+.pro-details{
+    color:#fff;
+}
+
+.name{
+    font-size: 22px;
+
+}
+
+.logout{
+}
+
+.menu-side{
+    color:#fff;
+    font-size: 18px;
+}
+
+.menu-side ul, .summary-menu ul{
+    list-style: none;
+}
+
+.menu-side ul li {
+    padding-bottom: 20px;
+}
+
+.status-bar{
+    /*status-bar: #222222;*/
+    border-bottom: solid thin #c3c3c3;
+}
+
+.status-bar .menu-icon{
+    max-height: 50px;
+}
+
+.menu-icon .glyphicon, .search .glyphicon, .bell .glyphicon{
+    font-size:36px;
+}
+
+.search .glyphicon{
+    color: #c3c3c3;
+}
+
+.search .text{
+    font-size: 24px;
+}
+
+.status-bar .bell{
+
+}
+
+.summary-menu li{
+    float: left;
+    padding-left: 50px;
+    font-weight: bold;
+}
+
+.circle{
+    /*background-color: #f3f3f3;*/
+    height: 290px;
+    border-bottom: solid thin #c3c3c3;
+    border-top: solid thin #c3c3c3;
+}
+
+canvas {
+    display: block;
+}
+
+input {
+    width: 200px;
+}
+
+body {
+}

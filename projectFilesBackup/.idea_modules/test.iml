@@ -28,7 +28,9 @@
       <excludeFolder url="file://$MODULE_DIR$/../target\scala-2.10\cache"/>
       <excludeFolder url="file://$MODULE_DIR$/../target\scala-2.10\classes"/>
       <excludeFolder url="file://$MODULE_DIR$/../target\scala-2.10\classes_managed"/>
+      <excludeFolder url="file://$MODULE_DIR$/../target\native_libraries"/>
       <excludeFolder url="file://$MODULE_DIR$/../target\resolution-cache"/>
+      <excludeFolder url="file://$MODULE_DIR$/../target\scala-2.10\resource_managed"/>
       <excludeFolder url="file://$MODULE_DIR$/../target\streams"/>
     </content>
     <orderEntry type="inheritedJdk"/>
