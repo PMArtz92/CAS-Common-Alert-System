@@ -83,6 +83,42 @@
     border-top: solid thin #c3c3c3;
 }
 
+/*Custom edits*/
+.login_h {
+    color:white;
+    font-weight: bold;
+}
+
+.login_div {
+    background-color: #000000;
+}
+
+.span_cas {
+    color:  #FF510C;
+}
+
+.btn-sign {
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: Arial;
+    color: #000000;
+    font-size: 20px;
+    font-weight: bolder;
+    background: #FF510C;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn-sign:hover {
+    background: #ff830d;
+    text-decoration: none;
+}
+
+.span_white {
+    color: #ffffff;
+}
+
 canvas {
     display: block;
 }

@@ -1,4 +1,4 @@
-name := "test"
+name := "Common_Alert_System"
 
 version := "1.0-SNAPSHOT"
 
